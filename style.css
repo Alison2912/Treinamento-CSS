@@ -1,0 +1,244 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+body {
+    height: 100%;
+    background-color: rgb(89, 89, 89);
+    
+}
+
+header {
+
+    position: relative;
+    height: 15vh;
+    width: 100%;
+    background-color: rgba(5, 236, 13, 0.992);
+}
+
+nav {
+    position: relative;
+    height: 13vh;
+    width: 100%;
+    background-color: rgb(211, 30, 30);
+    align-items: center;
+    
+    
+
+}
+
+.logo {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 20px;
+    height: 5vh;
+    width: 5vh;
+    background-color: rgb(7, 6, 6);
+}
+
+.menu-1 {
+
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 80px;
+    height: 5vh;
+    width: 50vh;
+    background-color: rgb(169, 169, 77);
+}
+
+.l1 {
+
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 2vh;
+    width: 10vh;
+    background-color: rgb(35, 137, 188);
+}
+
+.l2 {
+
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 80px;
+    height: 2vh;
+    width: 10vh;
+    background-color: rgb(77, 39, 158);
+}
+
+.l3 {
+
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 150px;
+    height: 2vh;
+    width: 10vh;
+    background-color: rgb(124, 27, 124);
+}
+
+.menu-2 {
+
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 800px;
+    height: 5vh;
+    width: 50vh;
+    background-color: rgb(211, 171, 171);
+}
+
+.l1 {
+
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 2vh;
+    width: 10vh;
+    background-color: rgb(35, 137, 188);
+}
+
+.l2 {
+
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 80px;
+    height: 2vh;
+    width: 10vh;
+    background-color: rgb(77, 39, 158);
+}
+
+.l3 {
+
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 150px;
+    height: 2vh;
+    width: 10vh;
+    background-color: rgb(124, 27, 124);
+}
+
+.container-1 { /*------container-1------*/
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 14vh;
+    width: 200vh;
+    background-color: rgb(23, 26, 26); 
+}
+
+.a1 { 
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 5vh;
+    width: 8vh;
+    background-color: rgba(223, 76, 22, 0.98);
+}
+
+.a2 { 
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 250px;
+    height: 5vh;
+    width: 8vh;
+    background-color: rgba(83, 138, 227, 0.98);
+}
+
+.a3 { 
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 500px;
+    height: 5vh;
+    width: 8vh;
+    background-color: rgba(235, 232, 41, 0.98);
+}
+
+/*------fim-container-1------*/
+
+.container-2 { /*------container-2------*/
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 650px;
+    height: 80vh;
+    width: 100vh;
+    background-color: rgb(29, 101, 90);
+
+}
+
+.b1 {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 20vh;
+    width: 20vh;
+    background-color: rgba(251, 0, 0, 0.98);
+
+}
+
+.b2 {
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 10px;
+    height: 20vh;
+    width: 20vh;
+    background-color: rgba(158, 36, 202, 0.98);
+
+}
+
+.b3 {
+    position: absolute;
+    margin-top: 300;
+    margin-left: 10px;
+    height: 20vh;
+    width: 20vh;
+    background-color: rgba(104, 26, 26, 0.98);
+
+}/*------fim-container-2------*/
+
+.container-3 {/*------container-3------*/
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 10px;
+    height: 80vh;
+    width: 100vh;
+    background-color: rgba(3, 249, 212, 0.969);
+    
+}
+
+.c1 {
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 20vh;
+    width: 20vh;
+    background-color: rgba(74, 31, 228, 0.98);
+
+}
+
+.c2 {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 50px;
+    height: 20vh;
+    width: 20vh;
+    background-color: rgba(94, 151, 97, 0.98);
+
+}
+
+.c3 {
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 80px;
+    height: 20vh;
+    width: 20vh;
+    background-color: rgba(168, 139, 139, 0.98);
+
+}
+
+.menu-1, .menu-2 {
+    display:flex
+}
+
+
+
